@@ -22,7 +22,7 @@ To get started with this repository, follow these steps:
    git clone {{repository-url}}
    ```
 
-2. Explore the repository and its contents to find the simple JavaScript projects that have been uploaded.
+2. Explore the repository and its contents to find the projects that have been uploaded.
 
 3. Each project will have its own directory containing the necessary files and instructions to run the project.
 
@@ -32,7 +32,7 @@ To get started with this repository, follow these steps:
 
 This repository contains a collection of  projects. Each project focuses on a specific concept or feature. You can find the projects in the repository's root directory.
 
-Feel free to explore the projects and try them out on your own. You can also contribute your own simple JavaScript projects to this repository. See the [Contributing](#contributing) section for more information.
+Feel free to explore the projects and try them out on your own. You can also contribute your own projects to this repository. See the [Contributing](#contributing) section for more information.
 
 ## Contributing
 
@@ -62,5 +62,5 @@ Your project will be reviewed, and once approved, it will be merged into the mai
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). Feel free to use the code and resources for personal or commercial purposes.
+This repository is licensed under the [MIT License](LICENSE).
 
